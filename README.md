@@ -1,7 +1,8 @@
 # Getting Started with CoinPicker-Front
+CoinPicker-Front is the front-end part of the CoinPicker project with a CoinPicker-Back being the server part.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-CoinPicker-Front is the front-end part of the CoinPicker project with a CoinPicker-Back being the server part.
+
 
 ## Available Scripts
 
